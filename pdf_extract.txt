@@ -1,0 +1,1044 @@
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norway
+Phone no.: 99790233
+Email address: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Tecsidel Norway AS
+c/o Bing Hodneland advokatselskap Postboks 1903 Vika
+0124 OSLO INVOICE
+
+Invoice no.:
+Invoice date:
+Cust. no.:
+1137
+2022-12-19
+10070
+
+Payment information
+Due date: 2022-12-27
+Bank account number: 1506.34.66260
+KID: 0113712
+NB! Always specify KID number when using electronic payment.
+
+Order number: 120024
+Department: 7 Jan
+Our contact: Jan Bøyum
+Reference: Referanse: Project 529 Toll and area administration
+
+Fixed monthly fee agreement = Fastpris etter avtale.3 months mutual termination. Termitaed December 19th 2022.
+
+Product no. Description Count Unit price Amount VAT Amount
+(excl. VAT) (excl. VAT) (25 %) (incl. VAT)
+3013 Fixed monthly fee agreement. 3 mnd 16,000.00 48,000.00 12,000.00 60,000.00
+Terminated, closing period until March
+2023
+Please remit to bank account 1506.34.66260 , KID: 0113712 NOK  60,000.00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Kiropraktor Irgens AS
+Herman Foss' gate 27
+0171 OSLO FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1138
+2022-12-21
+10143
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-04
+Kontonummer: 1506.34.66260
+KID: 0113811
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2039
+Jan Ivar Ljosland
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3025 Årsavslutning/Avstemming - Avtalt 1 5 000,00 5 000,00 1 250,00 6 250,00
+fast pris
+Betales til bankkonto 1506.34.66260 , KID: 0113811 NOK  6 250,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Ug Records AS
+c/o Karoun Røst Arnljot Gellines vei 5A
+0657 OSLO FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1139
+2022-12-22
+10109
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-05
+Kontonummer: 1506.34.66260
+KID: 0113910
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Avdeling:
+Vår kontakt:
+120025
+3 Katarina
+Katarina Husum
+
+Viderefakturering av Tripletex lisens. I fremtiden vil Ug Records motta faktura selv fra Tripletex.
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3050 Service avgift - Regnskapssystem. Se 1 mnd 1 805,00 1 805,00 451,25 2 256,25
+vedlegg
+Øreavrunding -0,25
+Betales til bankkonto 1506.34.66260 , KID: 0113910 NOK  2 256,00
+Fast Regnskap AS
+Engene 44
+3015 DRAMMEN
+Tripletex AS
+Karenslyst Allé 56
+0277 OSLO
+Foretaksregisteret: NO 914 286 018 MVA
+Telefon: +47 22 83 60 00
+
+FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1054142
+2022-06-15
+1000033923
+
+Betalingsinformasjon
+Forfallsdato: 2022-06-30
+Kontonummer: 6045.05.42183
+Bank: Nordea
+IBAN-nummer: NO4160450542183
+SWIFT-kode: NDEANOKK
+KID: 0105414213
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer: 33845290
+
+Tripletex-abonnement med pakken: Basis.
+Firma: Ug Records AS.
+Periode: 2022-05-20 - 2022-11-19.
+
+Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Månedspris. Basis: 2022-05-20 - 2022-11- 6 149,00 894,00 223,50 1 117,50
+19
+3014 Etablering, elektroniske bilag 1 550,00 550,00 137,50 687,50
+Sum 1 444,00 361,00 1 805,00
+Betales til bankkonto 6045.05.42183 , KID: 0105414213 NOK  1 805,00
+
+Eventuelle spørsmål knyttet til fakturaen kan sendes til: faktura@tripletex.no
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Ug Records AS
+c/o Karoun Røst Arnljot Gellines vei 5A
+0657 OSLO
+KREDITNOTA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1140
+2022-12-22
+10109
+
+Kreditnota for faktura nummer 1139 av 2022-12-22
+Beløp feil - fakturert mva 2 ganger
+
+Avdeling: 3 Katarina
+Vår kontakt: Katarina Husum
+
+Viderefakturering av Tripletex lisens. I fremtiden vil Ug Records motta faktura selv fra Tripletex.
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3050 Service avgift - Regnskapssystem. -1 mnd 1 805,00 -1 805,00 -451,25 -2 256,25
+Se vedlegg
+Øreavrunding 0,25
+Beløp til gode NOK  2 256,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Ug Records AS
+c/o Karoun Røst Arnljot Gellines vei 5A
+0657 OSLO FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1141
+2022-12-22
+10109
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-05
+Kontonummer: 1506.34.66260
+KID: 0114116
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Avdeling:
+Vår kontakt:
+120026
+3 Katarina
+Katarina Husum
+
+Viderefakturering av Tripletex lisens, se vedlegg. I fremtiden vil Ug Records motta faktura selv fra Tripletex.
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3050 Service avgift - Regnskapssystem. Se 1 mnd 1 444,00 1 444,00 361,00 1 805,00
+vedlegg
+Betales til bankkonto 1506.34.66260 , KID: 0114116 NOK  1 805,00
+Fast Regnskap AS
+Engene 44
+3015 DRAMMEN
+Tripletex AS
+Karenslyst Allé 56
+0277 OSLO
+Foretaksregisteret: NO 914 286 018 MVA
+Telefon: +47 22 83 60 00
+
+FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1054142
+2022-06-15
+1000033923
+
+Betalingsinformasjon
+Forfallsdato: 2022-06-30
+Kontonummer: 6045.05.42183
+Bank: Nordea
+IBAN-nummer: NO4160450542183
+SWIFT-kode: NDEANOKK
+KID: 0105414213
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer: 33845290
+
+Tripletex-abonnement med pakken: Basis.
+Firma: Ug Records AS.
+Periode: 2022-05-20 - 2022-11-19.
+
+Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Månedspris. Basis: 2022-05-20 - 2022-11- 6 149,00 894,00 223,50 1 117,50
+19
+3014 Etablering, elektroniske bilag 1 550,00 550,00 137,50 687,50
+Sum 1 444,00 361,00 1 805,00
+Betales til bankkonto 6045.05.42183 , KID: 0105414213 NOK  1 805,00
+
+Eventuelle spørsmål knyttet til fakturaen kan sendes til: faktura@tripletex.no
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Biware AS
+Tordenskiolds gate 22
+3044 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1142
+2022-12-28
+10039
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-11
+Kontonummer: 1506.34.66260
+KID: 0114215
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2125
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgave for 2022 uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave. Levert 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+uten endringer for 2022
+Betales til bankkonto 1506.34.66260 , KID: 0114215 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Di'lashes AS
+Øvre Eikervei 13
+3048 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1143
+2022-12-28
+10121
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-11
+Kontonummer: 1506.34.66260
+KID: 0114314
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2121
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven for 2022 uten endringer.
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0114314 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Ressurscompagniet AS
+Jupiterstien 2
+3033 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1144
+2022-12-29
+10029
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0114413
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2127
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven for 2022
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0114413 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Ressursakademiet AS
+Jupiterstien 2
+3033 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1145
+2022-12-29
+10120
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0114512
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+120028
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven for 2022
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0114512 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Funksjonell Helse AS
+Båtbyggerveien 2
+3057 SOLBERGELVA FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1146
+2022-12-29
+10041
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0114611
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+120029
+Jan Ivar Ljosland
+
+WeFile har sendt inn Aksjonærregisteroppgaven 2022 uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0114611 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Ispirit AS
+c/o Insam AS Papirbredden Kunnskapspark, 6.etg Grønland 58
+3045 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1147
+2022-12-29
+10099
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0114710
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2120
+Jan Ivar Ljosland
+
+WeFile har sendt inn Aksjonærregisteroppgaven 2022 uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0114710 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Miami Pizza AS
+Drammensveien 69
+3050 MJØNDALEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1148
+2022-12-29
+10022
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0114819
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+120030
+Jan Ivar Ljosland
+
+WeFile har sendt inn Aksjonærregisteroppgaven 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0114819 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Sms Drift AS
+Hauges gate 11
+3019 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1149
+2022-12-29
+10028
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0114918
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+120031
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven 2022 som avtalt uten endringer.
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0114918 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Chattha AS
+Rosenkrantzgata 17
+3018 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1150
+2022-12-29
+10105
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115014
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2136
+Jan Ivar Ljosland
+
+WeFile har sendt inn Aksjonærregisteroppgaven for 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115014 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Union Forsikring AS
+Gråterudveien 1
+3036 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1151
+2022-12-29
+10034
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115113
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2137
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven 2022 som avtalt uten endringer.
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115113 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+More Than Shoes AS
+Støperiveien 5
+2010 STRØMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1152
+2022-12-29
+10024
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115212
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2138
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgave 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115212 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Austad Assuranse AS
+Gråterudveien 1
+3036 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1153
+2022-12-29
+10033
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115311
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2139
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115311 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Planet Fashion AS
+Karl Johans gate 4
+0154 OSLO FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1154
+2022-12-29
+10025
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115410
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2140
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115410 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Carmax AS
+Ringeriksveien 24B
+3414 LIERSTRANDA FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1155
+2022-12-29
+10018
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115519
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2141
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115519 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Anleggsgartner Bjørn Thomas Bjerknes AS
+Meieriveien 7
+3023 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1156
+2022-12-29
+10015
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115618
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2142
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115618 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Aaaiar Vest AS
+Styrmoes vei 55
+3043 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1157
+2022-12-29
+10012
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115717
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2143
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115717 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Aktiv Bygg og Bad AS
+Søndre Myklerud Gård Kirkeliveien 41
+1454 FAGERSTRAND FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1158
+2022-12-29
+10013
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-12
+Kontonummer: 1506.34.66260
+KID: 0115816
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2144
+Jan Ivar Ljosland
+
+WeFile har levert Aksjonærregisteroppgaven 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0115816 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Sadiq Eiendom AS
+Tordenskiolds gate 96
+3044 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1159
+2022-12-30
+10095
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-13
+Kontonummer: 1506.34.66260
+KID: 0115915
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer: 120032
+Avdeling: 1 Camilla
+
+Fast Regnskap AS endrer navn til WeFile AS. Fakturaer vil derfor bli sendt fra faktura@wefile.no i fremtiden.
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3012 Regnskapstjenester - Fast pris etter 1 mnd 12 800,00 12 800,00 3 200,00 16 000,00
+avtale. 2022
+Betales til bankkonto 1506.34.66260 , KID: 0115915 NOK  16 000,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Augestad Tak og Fasade AS
+Harakollen 39B
+3303 HOKKSUND FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1160
+2022-12-30
+10017
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-13
+Kontonummer: 1506.34.66260
+KID: 0116012
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2145
+Jan Ivar Ljosland
+
+WeFile har levert aksjonærregisteroppgave 2022 uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0116012 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+E. V. Tak & Bygg AS
+Tunvollveien 46
+3057 SOLBERGELVA FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1161
+2022-12-30
+10032
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-13
+Kontonummer: 1506.34.66260
+KID: 0116111
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2149
+Jan Ivar Ljosland
+
+WeFile har levert aksjonærregisteroppgave for 2022 som avtalt med endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3019 Aksjonærregisteroppgave m 1 enheter 1 590,00 1 590,00 397,50 1 987,50
+/endringer
+Øreavrunding 0,50
+Betales til bankkonto 1506.34.66260 , KID: 0116111 NOK  1 988,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Byggmester Bent Fuglerud AS
+Kvernbakken 44
+3427 GULLAUG FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1162
+2022-12-30
+10031
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-13
+Kontonummer: 1506.34.66260
+KID: 0116210
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2150
+Jan Ivar Ljosland
+
+WeFile har levert aksjonærregisteroppgave 2022 som avtalt uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0116210 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Fuglerud Eiendom AS
+Kvernbakken 44
+3427 GULLAUG FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1163
+2022-12-30
+10112
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-13
+Kontonummer: 1506.34.66260
+KID: 0116319
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2151
+Jan Ivar Ljosland
+
+WeFile har sendt inn Aksjonærregisteroppgaven for 2022 uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0116319 NOK  1 325,00
+WeFile AS (tidl. Fast Regnskap AS)
+Engene 44, 3015 DRAMMEN, Norge
+Telefon: 99790233
+E-postadresse: faktura@wefile.no
+Foretaksregisteret:  NO 924 505 036 MVA
+
+Kabelresirk AS
+Nedre Kiøsterudsgate 1
+3023 DRAMMEN FAKTURA
+
+Fakturanr.:
+Fakturadato:
+Kundenr.:
+1164
+2022-12-30
+10108
+
+Betalingsinformasjon
+Forfallsdato: 2023-01-13
+Kontonummer: 1506.34.66260
+KID: 0116418
+NB! Oppgi alltid KID ved elektronisk betaling.
+
+Ordrenummer:
+Vår kontakt:
+2152
+Jan Ivar Ljosland
+
+WeFile har sendt inn Aksjonærregisteroppgave 2022 uten endringer
+
+Produktnr. Beskrivelse Antall Enh.pris Beløp Mva Beløp
+(ekskl. mva) (ekskl. mva) (25 %) (inkl. mva)
+3020 Aksjonærregisteroppgave 1 enheter 1 060,00 1 060,00 265,00 1 325,00
+Betales til bankkonto 1506.34.66260 , KID: 0116418 NOK  1 325,00
